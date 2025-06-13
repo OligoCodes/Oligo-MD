@@ -11,12 +11,13 @@
 - 📱 Multi-device support (MD) using WhatsApp Web API
 - 🛡️ Secure & easy to use
 
-#🌍 Connect with Me
+# 🌍 Connect with Me
 
-🧠 YouTube: https://youtube.com/@oligocodes?si=tNGZAiyjWY4ASynN
+![🧠 YouTube url](https://youtube.com/@oligocodes?si=tNGZAiyjWY4ASynN)
 
-🎵 TikTok: https://www.tiktok.com/@oligocodes?_t=ZM-8x938TMXJmK&_r=1
+[🎵 TikTok url](https://www.tiktok.com/@oligocodes?_t=ZM-8x938TMXJmK&_r=1)
 
-📲 WhatsApp: Click to Chat (https://wa.me/+233591179690)
+[📲 WhatsApp: Click to Chat](https://wa.me/+233591179690)
 
-🧠 Telegram: https://t.me/oligocodes
+🧠 Telegram: 
+[https://t.me/oligocodes]
