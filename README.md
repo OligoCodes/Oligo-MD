@@ -18,7 +18,7 @@
 <div class = "repo" align = "center">
  
 <a href = "#">
-<img src = "https://i.postimg.cc/765nFVKh/file-0000000072a861f89e02c20d4c7fa759.png"  width="300" height="200">
+<img src = "https://i.postimg.cc/2yqhtS8Z/file-00000000f43861f89d1c7f28d361a103.png"  width="300" height="200">
 </img>
  <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines= Oligo-MD+MD+WHATSAPP+BOT+MD" alt="OligoMD">
