@@ -17,4 +17,11 @@
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp)](https://wa.me/+233591179690)
 
+
+[![TikTok](https://img.shields.io/badge/TikTok-OligoMD-black?style=for-the-badge&logo=tiktok)](https://tiktok.com/@oligocodes)
+
+[![Instagram](https://img.shields.io/badge/Instagram-OligoMD-purple?style=for-the-badge&logo=instagram)](https://instagram.com/oligocodes)
+
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord)](https://discord.gg/DeUaFdg2)
+
 [![GitHub](https://img.shields.io/badge/GitHub-OligoCodes-black?style=for-the-badge&logo=github)](https://github.com/OligoCodes)
