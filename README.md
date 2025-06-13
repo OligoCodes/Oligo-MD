@@ -17,4 +17,4 @@
 
 📲 WhatsApp: Click to Chat (https://wa.me/+233591179690)
 
-🧠 Telegram: https://t.me/@oligocodes
+🧠 Telegram: https://t.me/oligocodes
