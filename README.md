@@ -13,11 +13,8 @@
 
 # 🌍 Connect with Me
 
-![🧠 YouTube url](https://youtube.com/@oligocodes?si=tNGZAiyjWY4ASynN)
+[![YouTube](https://img.shields.io/badge/YouTube-OligoMD-red?style=for-the-badge&logo=youtube)](https://youtube.com/@oligocodes)
 
-[🎵 TikTok url](https://www.tiktok.com/@oligocodes?_t=ZM-8x938TMXJmK&_r=1)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp)](https://wa.me/+233591179690)
 
-[📲 WhatsApp: Click to Chat](https://wa.me/+233591179690)
-
-🧠 Telegram: 
-[https://t.me/oligocodes]
+[![GitHub](https://img.shields.io/badge/GitHub-OligoCodes-black?style=for-the-badge&logo=github)](https://github.com/OligoCodes)
