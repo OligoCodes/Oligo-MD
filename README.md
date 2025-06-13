@@ -1,6 +1,8 @@
 # Oligo-MD
 ⚡A powerful WhatsApp Multi-Device bot built with 💚 by Joseph Bonsu from Ghana 🇬🇭. Connect 🔗, control 🛰, and automate 🔧 WhatsApp like never before! 
 
+![Oligo-MD Banner](https://i.postimg.cc/765nFVKh/file-0000000072a861f89e02c20d4c7fa759.png)
+
 ## 🔧 Features
 - 💬 Send and receive WhatsApp messages
 - 🖼️ Media handling (images, videos, audio, stickers)
