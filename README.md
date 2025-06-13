@@ -1,5 +1,5 @@
 # Oligo-MD
-⚡A powerful WhatsApp Multi-Device bot built with 💚 by Joseph Bonsu style. Connect 🔗, control 🛰, and automate 🔧 WhatsApp like never before! 
+⚡A powerful WhatsApp Multi-Device bot built with 💚 by Joseph Bonsu from Ghana 🇬🇭. Connect 🔗, control 🛰, and automate 🔧 WhatsApp like never before! 
 
 ## 🔧 Features
 - 💬 Send and receive WhatsApp messages
@@ -8,3 +8,11 @@
 - 📦 Plugin system for extended functionality
 - 📱 Multi-device support (MD) using WhatsApp Web API
 - 🛡️ Secure & easy to use
+
+## 🚀 Getting Started
+
+```bash
+git clone https://github.com/OligoCodes/Oligo-MD.git
+cd Oligo-MD
+npm install
+npm start
